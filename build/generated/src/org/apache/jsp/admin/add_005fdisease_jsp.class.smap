@@ -1,0 +1,12 @@
+SMAP
+add_005fdisease_jsp.java
+JSP
+*S JSP
+*F
++ 0 add_disease.jsp
+admin/add_disease.jsp
+*L
+5,22:47
+27:69,3
+28,27:72
+*E

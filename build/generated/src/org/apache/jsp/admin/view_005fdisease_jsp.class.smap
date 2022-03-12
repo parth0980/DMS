@@ -1,0 +1,18 @@
+SMAP
+view_005fdisease_jsp.java
+JSP
+*S JSP
+*F
++ 0 view_disease.jsp
+admin/view_disease.jsp
+*L
+5,25:49
+30:74,3
+31,11:77
+42,10:89
+51,3:99
+54,4:102,3
+58,3:114
+61,2:118
+62,10:120
+*E
